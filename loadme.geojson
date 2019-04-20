@@ -1,0 +1,50 @@
+{
+   "success" : true,
+   "type": "FeatureCollection",
+   "features":
+    [
+       {
+         "type": "Feature",
+         "properties":
+         {
+            "PLSSUTF8": "NE� S13 T8S R11.2W",
+            "PLSSTEXT": "NE1-4 S13 T8S R11-2W",
+            "Q3": "",
+            "Q2": "",
+            "Q1": "NE",
+            "SECTION": "13",
+            "SECTIONFRACTION": "",
+            "TOWNSHIP": "8",
+            "TOWNSHIPFRACTION": "0",
+            "NORTHSOUTH": "S",
+            "RANGE": "11",
+            "RANGEFRACTION": "2",
+            "EASTWEST": "W",
+            "STATE": "Arizona",
+            "MERIDIAN": "Gila and Salt River",
+            "COUNTY": "Yuma",
+            "LATITUDE" :   32.735215,
+            "LONGITUDE": -113.441886,
+            "ZOOM"     : 14,
+            "MGRS": "12S TB 71181 24571",
+            "UTM": "12S 271181 3624571",
+            "ACRES": 151.228,
+            "STATUS":  "INTERPOLATED FROM BLM"
+         },
+         "geometry":
+         {
+            "type": "Polygon",
+            "coordinates":
+            [
+               [
+                  [ -113.437836,   32.738839],
+                  [ -113.437822,   32.731590],
+                  [ -113.445950,   32.731590],
+                  [ -113.445950,   32.738839],
+                  [ -113.437836,   32.738839]
+               ]
+            ]
+         }
+       }
+    ]
+}
