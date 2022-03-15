@@ -1,0 +1,14 @@
+{
+  "error": {
+    "percent": 80,
+    "message": "SSL is required to perform this operation.",
+    "errors": [
+      {
+        "message": "SSL is required to perform this operation.",
+        "domain": "global",
+        "reason": "sslRequired"
+      }
+    ],
+    "status": "PERMISSION_DENIED"
+  }
+}
